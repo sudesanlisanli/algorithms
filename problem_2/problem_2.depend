@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1541112846 source:d:\codeblockss\problem_2\main.cpp
+	<iostream>
+	"functionmath.h"
+
+1541112803 d:\codeblockss\problem_2\functionmath.h
+
+1541112798 source:d:\codeblockss\problem_2\functionmath.cpp
+	"functionmath.h"
+	<iostream>
+
